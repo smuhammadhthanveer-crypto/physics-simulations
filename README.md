@@ -62,5 +62,3 @@ The simulation predicts:
 Physics & Mathematics Undergraduate  
 Woxsen University
 
-Physics & Mathematics Undergraduate
-Woxsen University
