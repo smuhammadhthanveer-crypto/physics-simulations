@@ -26,6 +26,9 @@ Using:
 
 The simulation predicts:
 
+<img width="1012" height="832" alt="image" src="https://github.com/user-attachments/assets/ce3d7350-5ef8-4f11-8b04-ac9c75258c7d" />
+
+
 * Meeting Position ≈ 2.94 m
 * Meeting Time ≈ 5.42 s
 
