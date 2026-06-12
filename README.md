@@ -54,7 +54,10 @@ The simulation predicts:
 
 ## Author
 
-Muhammadh Thanveer
+**Muhammadh Thanveer**
+
+Physics & Mathematics Undergraduate  
+Woxsen University
 
 Physics & Mathematics Undergraduate
 Woxsen University
