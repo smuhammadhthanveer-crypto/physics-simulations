@@ -51,8 +51,8 @@ The simulation predicts:
 
 ## Built With
 
-* VPython
-* GlowScript
+* VPython 
+* GlowScript (glowscript.org)
 * Python
 
 ## Author
